@@ -1,1 +1,1 @@
-# Introduction to Functional programming
+# Introduction to Functional Programming
