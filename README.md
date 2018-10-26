@@ -1,3 +1,6 @@
 # Aspen Book
 
-This book is designed to introduce you to Functional Programming through Aspen.
+This book has two purposes. 
+
+- Introduce new programmers to Functional Programming.
+- Serve as a reference for programming in Aspen.
