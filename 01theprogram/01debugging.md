@@ -1,4 +1,4 @@
-# 1.1 Debugging
+# Debugging
 
 ## Debugging
 

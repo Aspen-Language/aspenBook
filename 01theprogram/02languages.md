@@ -1,4 +1,4 @@
-# 1.2 Formal and Natural Languages
+# Formal and Natural Languages
 
 
 
