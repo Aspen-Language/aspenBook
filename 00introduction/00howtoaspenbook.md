@@ -1,4 +1,9 @@
 # 0.0 How to use this Book
 
-The goal of this book is to teach you to think like a Functional Programmer. 
+This Book has Two purposes.
+
+* To teach you how to think like a functional programmer
+* To serve as a reference for Aspen Language
+
+
 
