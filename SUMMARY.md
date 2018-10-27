@@ -10,19 +10,3 @@
   * [Debugging](01theprogram/01debugging.md)
   * [Formal and Natural Languages](01theprogram/02languages.md)
 
-## Assignment
-
-* [Assignment](assignment/assignment-1.md)
-
-## Functions
-
-* [Functions](functions/functions.md)
-
-## Types
-
-* [Types](types/types.md)
-
-## Moving On
-
-* [Moving On](moving-on/moving-on.md)
-
