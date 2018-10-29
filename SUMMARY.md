@@ -4,15 +4,16 @@
 
 ## Guide
 
-* [Introduction](guide/00introduction/README.md)
-  * [Why Aspen](guide/00introduction/01whyaspen.md)
-* [The Program](guide/01theprogram/README.md)
-  * [What Is A Program](guide/01theprogram/00whatisaprogram.md)
-  * [Debugging](guide/01theprogram/01debugging.md)
-  * [Formal and Natural Languages](guide/01theprogram/02languages.md)
+* [Introduction](guide/introduction/README.md)
+  * [Why Aspen](guide/introduction/why-aspen.md)
+  * [General Programming Vocabulary](guide/introduction/general-programming-vocabulary.md)
+* [The Program](guide/the-program/README.md)
+  * [What Is A Program](guide/the-program/what-is-a-program.md)
+  * [Debugging](guide/the-program/debugging.md)
+  * [Formal and Natural Languages](guide/the-program/formal-and-natural-languages.md)
 * [Functional Programming](guide/functional-programming/README.md)
   * [What is Functional Programming](guide/functional-programming/what-is-functional-programming.md)
-  * [Using Functions to Make Programs](guide/functional-programming/using-functions-to-make-programs.md)
+  * [An Introduction to Functions](guide/functional-programming/using-functions-to-make-programs.md)
 * [Functions](guide/functions/README.md)
   * [Calling Functions](guide/functions/calling-functions.md)
   * [Making Functions](guide/functions/making-functions.md)

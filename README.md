@@ -1,9 +1,3 @@
----
-description: >-
-  Written by the Aspen Community for the Aspen Language.
-  https://nnmsisaac.gitbook.io/aspenlanguage/
----
-
 # How to use this Book
 
 This Book has two purposes.
