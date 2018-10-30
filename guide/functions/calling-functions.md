@@ -16,8 +16,10 @@ Let's break this down:
 * `10` and `20` are the arguments we're passing to this function
 
 {% hint style="warning" %}
-Remember to separate the arguments by a space. Also, it is generally advised to use parenthesis to show function order. For example, `multiply ( add 10 5 ) 8` is preferred over `multiply add 10 5 8`, even though they are technically the same. 
+Remember to separate the arguments by a space. Also, when nesting functions, make sure parenthesis are used to denote structure
 {% endhint %}
+
+
 
 
 
