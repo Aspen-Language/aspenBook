@@ -21,7 +21,6 @@
   * [Recursion](guide/functions/recursion.md)
   * [Anonymous Functions](guide/functions/anonymous-functions.md)
   * [Closures](guide/functions/closures-1.md)
-* [Closures](guide/closures.md)
 * [Expressions](guide/expressions/README.md)
   * [What is an Expression](guide/expressions/what-is-an-expression.md)
   * [Simplifying Expressions](guide/expressions/simplifying-expressions.md)
