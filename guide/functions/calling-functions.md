@@ -16,7 +16,5 @@ Let's break this down:
 * `multiply` is the name of the function we're calling
 * `10` and `20` are the arguments we're passing to this function
 
-Boop
-
 
 
