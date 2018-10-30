@@ -13,7 +13,7 @@ It is generally easier to write code than to read it. Because of this, quite a l
 ```text
 -{
     This is a comment 
-    that spans multiple lines
+    that spans multiple lines.
 }-
 ```
 
