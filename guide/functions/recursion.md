@@ -1,13 +1,25 @@
 # Recursion
 
+## Examples
+
+```text
+sort : List -> List
+sort : x ->
+    if ( length x ) == 1 |>
+        x
+    |>
+        y = min x
+        append y ( sort ( remove y x ) )
+```
+
 {% code-tabs %}
 {% code-tabs-item title="CountDown.aspen" %}
 ```text
 countdown = x ->
-    if x > 0
+    if x > 0 |>
         display concatenate ( String x ) "..."
         countdown ( x - 1 )
-    else
+    |>
         display "Blast Off!"
 
 countdown 5
