@@ -21,6 +21,7 @@
   * [Recursion](guide/functions/recursion.md)
   * [Anonymous Functions](guide/functions/anonymous-functions.md)
   * [Closures](guide/functions/closures-1.md)
+* [Function Composition](guide/function-composition.md)
 * [Expressions](guide/expressions/README.md)
   * [What is an Expression](guide/expressions/what-is-an-expression.md)
   * [Simplifying Expressions](guide/expressions/simplifying-expressions.md)
@@ -28,13 +29,14 @@
   * [What is an Element](guide/elements/what-is-an-element.md)
 * [Assignment](guide/assignment/README.md)
   * [Advanced Assignment](guide/assignment/advanced-assignment.md)
-  * [Macro definition](guide/assignment/macro-definition.md)
 * [Typing](guide/types/README.md)
   * [Type Systems](guide/types/type-systems.md)
   * [Making your own Types](guide/types/making-your-own-types.md)
   * [Introduction to Type Theorey](guide/types/introduction-to-type-theorey.md)
+* [Moving On](guide/moving-on/README.md)
+  * [Introductory File](guide/moving-on/introductory-file.md)
 
 ## Reference
 
-* [Intro](reference/untitled.md)
+* [Introduction](reference/untitled.md)
 
